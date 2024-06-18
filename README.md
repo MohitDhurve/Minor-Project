@@ -1,2 +1,3 @@
-# Minor-Project
-Minor Project Report
+# CHANGE DETECTION USING SATELLITE IMAGE SEGMENTATION
+<h1>Minor Project Report</h1>
+
