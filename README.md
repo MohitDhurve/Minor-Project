@@ -65,15 +65,6 @@
         <li>Extend the algorithm to detect other types of environmental changes.</li>
     </ul>
 
-  <h2>Repository Structure</h2>
-    <ul>
-        <li><code>data/</code>: Contains sample satellite images and preprocessing scripts.</li>
-        <li><code>src/</code>: Includes the main algorithm and feature extraction code.</li>
-        <li><code>notebooks/</code>: Jupyter notebooks for exploratory data analysis and model training.</li>
-        <li><code>results/</code>: Stores results of the change detection experiments.</li>
-        <li><code>README.md</code>: Project overview and setup instructions.</li>
-    </ul>
-
  <h2>How to Contribute</h2>
     <p>Contributions are welcome! Please open an issue or submit a pull request with your proposed changes or enhancements. Ensure that your code adheres to the project's coding standards and includes relevant tests.</p>
 
